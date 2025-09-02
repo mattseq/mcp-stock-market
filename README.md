@@ -1,9 +1,9 @@
 # MCP Stock Market
 
-This tool provides stock market data using the Alpha Vantage API.  
+This tool provides stock market data using the Alpha Vantage API and is published to npm as [mcp-stock-market](https://www.npmjs.com/package/mcp-stock-market).
 You must obtain a free API key from [Alpha Vantage](https://www.alphavantage.co/).
 
-## Setup
+## Setup with Claude Desktop
 
 1. **Get your API key:**  
    Sign up at [Alpha Vantage](https://www.alphavantage.co/) and copy your API key.
